@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\C# Projelerim\Platform Oyunu\Platform Oyunu\bin\Debug\Platform Oyunu.exe.config
+C:\Users\Lenovo\Desktop\C# Projelerim\Platform Oyunu\Platform Oyunu\bin\Debug\Platform Oyunu.exe
+C:\Users\Lenovo\Desktop\C# Projelerim\Platform Oyunu\Platform Oyunu\bin\Debug\Platform Oyunu.pdb
+C:\Users\Lenovo\Desktop\C# Projelerim\Platform Oyunu\Platform Oyunu\obj\Debug\Platform Oyunu.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# Projelerim\Platform Oyunu\Platform Oyunu\obj\Debug\Platform_Oyunu.Form1.resources
+C:\Users\Lenovo\Desktop\C# Projelerim\Platform Oyunu\Platform Oyunu\obj\Debug\Platform_Oyunu.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\C# Projelerim\Platform Oyunu\Platform Oyunu\obj\Debug\Platform Oyunu.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\C# Projelerim\Platform Oyunu\Platform Oyunu\obj\Debug\Platform Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# Projelerim\Platform Oyunu\Platform Oyunu\obj\Debug\Platform Oyunu.exe
+C:\Users\Lenovo\Desktop\C# Projelerim\Platform Oyunu\Platform Oyunu\obj\Debug\Platform Oyunu.pdb
